@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 343D-172E
+
+ Directory of C:\Users\Ali\Desktop\prot
+
+10/18/2021  11:46 AM    <DIR>          .
+10/18/2021  11:46 AM    <DIR>          ..
+10/18/2021  11:46 AM                 0 add.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,881,981,440 bytes free
